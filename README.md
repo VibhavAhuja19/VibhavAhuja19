@@ -116,15 +116,6 @@ Key highlights:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Vibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibhavahuja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhavahuja&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -139,10 +130,3 @@ Key highlights:
 
 ---
 
-<div align="center">
-
-**Let's build something that actually ships.**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhav-ahuja)
-
-</div>
