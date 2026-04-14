@@ -115,8 +115,12 @@ Key highlights:
 - Sub-300ms response loop for natural conversation feel
 
 ---
+## Github Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibhavahuja&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhavahuja&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=vibhavahuja&theme=tokyonight&hide_border=true)
 ---
 
 ## 💬 Ask Me About
