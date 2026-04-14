@@ -116,11 +116,7 @@ I'm currently exploring **AI system design at scale**, **quantitative finance ap
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vibhavahuja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="Vibhav's GitHub Stats" />
 
-<br/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vibhavahuja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/>
 
@@ -128,7 +124,6 @@ I'm currently exploring **AI system design at scale**, **quantitative finance ap
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vibhavahuja&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
