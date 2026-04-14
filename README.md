@@ -69,7 +69,6 @@ I'm currently exploring **AI system design at scale**, **quantitative finance ap
 
 **Stack:** `Groq` · `Milvus` · `BGE-M3` · `FastAPI`
 
-Key highlights:
 - Hybrid BM25 + dense vector search for superior recall
 - Cross-encoder reranking for precision-optimized top-k results
 - Cache layer reduces redundant LLM calls significantly
@@ -82,7 +81,6 @@ Key highlights:
 
 **Stack:** `LangGraph` · `Neo4j` · `arXiv API` · `HuggingFace`
 
-Key highlights:
 - Ingests from arXiv, news APIs, and research blogs
 - Neo4j knowledge graph for entity-relationship-aware retrieval
 - LangGraph orchestrates multi-step reasoning and source synthesis
@@ -95,7 +93,6 @@ Key highlights:
 
 **Stack:** `Groq` · `LangGraph` · `FastAPI`
 
-Key highlights:
 - Implements MCP spec for standardized tool invocation
 - LangGraph agents dynamically select and execute tools
 - Extensible architecture — plug in new tools without changing core logic
@@ -108,19 +105,33 @@ Key highlights:
 
 **Stack:** `VAPI` · `LangGraph` · `FastAPI`
 
-Key highlights:
 - VAPI integration for real-time voice input/output
 - Multi-agent graph routes intent to specialized sub-agents
 - Handles interruptions, turn-taking, and context carryover
 - Sub-300ms response loop for natural conversation feel
 
 ---
-## Github Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibhavahuja&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhavahuja&layout=compact&theme=tokyonight&hide_border=true)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vibhavahuja&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vibhavahuja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="Vibhav's GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vibhavahuja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=vibhavahuja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vibhavahuja&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
 ---
 
 ## 💬 Ask Me About
@@ -134,3 +145,6 @@ Key highlights:
 
 ---
 
+
+
+</div>
