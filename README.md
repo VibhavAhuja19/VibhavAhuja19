@@ -120,7 +120,7 @@ I'm currently exploring **AI system design at scale**, **quantitative finance ap
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vibhavahuja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=VibhavAhuja19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
